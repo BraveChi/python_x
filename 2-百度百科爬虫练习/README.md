@@ -1,6 +1,6 @@
 这个爬虫比上一个斗鱼人气值的要更好一些，用到了模块和分层，及beautifulSoup框架来代替正则表达式
-------------------------------
-业务流程图
+
+# 业务流程图
 ![Image Text](https://github.com/BraveChi/python_x/blob/master/2-%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E7%88%AC%E8%99%AB%E7%BB%83%E4%B9%A0/%E7%AE%80%E5%8D%95%E7%88%AC%E8%99%AB%E6%9E%B6%E6%9E%84%E6%B5%81%E7%A8%8B%E5%9B%BE.jpg)
 
 # 一、安装beautifulSoup
